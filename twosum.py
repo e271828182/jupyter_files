@@ -28,3 +28,4 @@ class Solution:
 # %%
 s = Solution()
 s.twoSum([3,3],6)
+print(s.twoSum([3,2,3,3],6))
