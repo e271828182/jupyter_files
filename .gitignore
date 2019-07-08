@@ -1,0 +1,13 @@
+.idea/
+.settings/
+.pydevproject
+.project
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.pyc
+*.log
+.ipynb_checkpoints
+metastore_db
+
